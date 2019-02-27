@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinCoroutines</string>
+    <string name="post_name">Post name</string>
+    <string name="post_preview">Post preview</string>
+</resources>
